@@ -1,0 +1,9 @@
+body{
+    background-color: #d9c996;
+}
+
+#password{
+    margin-top: 30px;
+    font-size: 70px;
+    font-weight: bold;
+}
